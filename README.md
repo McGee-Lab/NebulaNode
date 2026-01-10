@@ -8,8 +8,6 @@
 [![PM2](https://img.shields.io/badge/PM2-Process%20Manager-informational)](https://pm2.keymetrics.io/)
 [![Docker](https://img.shields.io/badge/Docker-Optional-informational)](https://www.docker.com/)
 
-> **Internal Note:** Swap these placeholder badges for real CI badges once GitHub Actions are added.
-
 **Nebula Node** is a Discord bot being rebuilt **from scratch** with a modern, maintainable, and production-ready architecture.
 
 This repository represents a **clean restart** of the project after a long hiatus.  
